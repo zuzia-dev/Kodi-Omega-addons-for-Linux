@@ -1,2 +1,36 @@
-# Kodi-Omega-addons-for-Linux
-Addons Kodi "Omega" for Linux - Debian, Mint, Ubuntu. For development purpose only. 
+# Kodi Nexus addons for Linux
+Addons for Kodi 21 "Omega" Alpha 1 for Linux distributions based on Debian and Ubuntu. For development purpose only.
+    
+### InputStream FFmpeg Direct
+InputStream Client for FFmpeg streams (libavformat).
+- Source: https://github.com/xbmc/inputstream.ffmpegdirect/tree/Omega
+
+### InputStream Adaptive
+InputStream client for adaptive streams.
+- Google Widevine - on Linux systems is required WV library.
+- Source: https://github.com/xbmc/inputstream.adaptive/tree/Omega
+
+### IPTV Simple PVR
+IPTV Live TV and Radio PVR client addon.
+ - Source: https://github.com/kodi-pvr/pvr.iptvsimple/tree/Omega
+ 
+ ### PVR-Addon for Waipu
+Waipu.tv PVR client for Kodi.
+ - Source: https://github.com/flubshi/pvr.waipu/tree/Omega
+
+### PVR-Addon for Zattoo
+Zattoo PVR client for Kodi.
+ - Source: https://github.com/rbuehlma/pvr.zattoo/tree/Omega
+
+### InputStream RTMP
+- Source: https://github.com/xbmc/inputstream.rtmp/tree/Omega
+
+### Peripheral Joystick
+- Source: https://github.com/xbmc/peripheral.joystick/tree/Omega
+
+### Other Features
+- Compiled with gcc version 10.2.1 and enable Debug flag (Kodi should also be built as Debug).
+- Support library Bento4: https://www.bento4.com
+
+### License
+GPLv2 licensed.
