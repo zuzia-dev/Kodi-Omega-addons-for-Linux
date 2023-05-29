@@ -1,6 +1,9 @@
 # Kodi Nexus addons for Linux
+[![Generic badge](https://img.shields.io/badge/Platform-Kodi.tv-<COLOR>.svg)](https://kodi.tv/) [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+
 Addons for Kodi 21 "Omega" Alpha 1 for Linux distributions based on Debian and Ubuntu. For development purpose only.
-    
+
+
 ### InputStream FFmpeg Direct
 InputStream Client for FFmpeg streams (libavformat).
 - Source: https://github.com/xbmc/inputstream.ffmpegdirect/tree/Omega
