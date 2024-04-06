@@ -32,7 +32,7 @@ Zattoo PVR client for Kodi.
 - Source: https://github.com/xbmc/peripheral.joystick/tree/Omega
 
 ### Other Features
-- Compiled with gcc version 10.2.1 (Debian 10.2.1-6) and enable Debug flag (Kodi should also be built as Debug).
+- Compiled with gcc version 12.2.0 (Debian 12.2.0-14) and enable Debug flag (Kodi should also be built as Debug).
 - Support library Bento4: https://www.bento4.com
 
 ### License
