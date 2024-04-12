@@ -18,6 +18,7 @@ Google Widevine - on Linux systems is required WV library.
 ### IPTV Simple PVR
 IPTV Live TV and Radio PVR client addon.
  - Source: https://github.com/kodi-pvr/pvr.iptvsimple/tree/Omega
+- Zip file: [v21.8.3-Omega-2024-04-12-pvr.iptvsimple.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.8.3-Omega-2024-04-12-pvr.iptvsimple.zip)
  
  ### PVR-Addon for Waipu
 Waipu.tv PVR client for Kodi.
