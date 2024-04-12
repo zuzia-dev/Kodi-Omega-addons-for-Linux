@@ -7,10 +7,11 @@ Addons for Kodi v21.0-Omega for Linux distributions based on Debian and Ubuntu. 
 ### InputStream FFmpeg Direct
 InputStream Client for FFmpeg streams (libavformat).
 - Source: https://github.com/xbmc/inputstream.ffmpegdirect/tree/Omega
+- Zip file: [v21.3.5-Omega-2024-04-12-inputstream.ffmpegdirect.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.3.5-Omega-2024-04-12-inputstream.ffmpegdirect.zip)
 
 ### InputStream Adaptive
 InputStream client for adaptive streams.
-- Google Widevine - on Linux systems is required WV library.
+Google Widevine - on Linux systems is required WV library.
 - Source: https://github.com/xbmc/inputstream.adaptive/tree/Omega
 - Zip file: [v21.4.4-Omega-2024-04-12-inputstream.adaptive.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.4.4-Omega-2024-04-12-inputstream.adaptive.zip)
 
