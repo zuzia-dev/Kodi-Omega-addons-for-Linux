@@ -23,6 +23,7 @@ IPTV Live TV and Radio PVR client addon.
  ### PVR-Addon for Waipu
 Waipu.tv PVR client for Kodi.
  - Source: https://github.com/flubshi/pvr.waipu/tree/Omega
+ - Zip file: [v21.5.0-Omega-2024-04-12-pvr.waipu.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.5.0-Omega-2024-04-12-pvr.waipu.zip)
 
 ### PVR-Addon for Zattoo
 Zattoo PVR client for Kodi.
