@@ -28,6 +28,7 @@ Waipu.tv PVR client for Kodi.
 ### PVR-Addon for Zattoo
 Zattoo PVR client for Kodi.
  - Source: https://github.com/rbuehlma/pvr.zattoo/tree/Omega
+ - Zip file: [v21.5.0-Omega-2024-04-12-pvr.waipu.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.0.1-Omega-2024-04-12-pvr.zattoo.zip)
 
 ### InputStream RTMP
 - Source: https://github.com/xbmc/inputstream.rtmp/tree/Omega
