@@ -13,7 +13,7 @@ InputStream Client for FFmpeg streams (libavformat).
 InputStream client for adaptive streams.
 Google Widevine - on Linux systems is required WV library.
 - Source: https://github.com/xbmc/inputstream.adaptive/tree/Omega
-- Zip file: [v21.4.4-Omega-2024-04-12-inputstream.adaptive.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.4.4-Omega-2024-04-12-inputstream.adaptive.zip)
+- Zip file: [v21.4.5-Omega-2024-04-15-inputstream.adaptive.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.4.5-Omega-2024-04-15-inputstream.adaptive.zip)
 
 ### IPTV Simple PVR
 IPTV Live TV and Radio PVR client addon.
