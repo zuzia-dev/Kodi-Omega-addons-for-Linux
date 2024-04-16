@@ -1,5 +1,7 @@
 # Kodi Omega addons for Linux
-[![Generic badge](https://img.shields.io/badge/Platform-KODI-<COLOR>.svg)](https://kodi.tv/) [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[![Generic badge](https://img.shields.io/badge/Platform-KODI-<COLOR>.svg)](https://kodi.tv/)
+![Kodi version](https://img.shields.io/badge/versions-21-teal)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 Addons for Kodi v21.0-Omega for Linux distributions based on Debian and Ubuntu. For development purpose only.
 
