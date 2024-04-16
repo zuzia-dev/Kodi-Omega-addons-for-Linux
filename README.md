@@ -5,6 +5,9 @@
 
 Addons for Kodi v21.0-Omega for Linux distributions based on Debian and Ubuntu. For development purpose only.
 
+## Installation & Updates
+> ###### All zip files are in the repository: [Repozytorium-Kodi](https://repozytorium-kodi.github.io/Repozytorium-Kodi.zip)
+> ###### Installation via Kodi's file-manager: https://repozytorium-kodi.github.io
 
 ### InputStream FFmpeg Direct
 InputStream Client for FFmpeg streams (libavformat).
