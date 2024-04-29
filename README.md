@@ -45,6 +45,10 @@ Zattoo PVR client for Kodi.
 - Source: https://github.com/xbmc/peripheral.joystick/tree/Omega
 - Zip file: [v21.1.11-Omega-2024-04-12-peripheral.joystick.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.1.11-Omega-2024-04-12-peripheral.joystick.zip)
 
+### VFS libarchive
+- Source: https://github.com/xbmc/vfs.libarchive/tree/Omega
+- Zip file: [v21.0.0-Omega-2024-04-29-vfs.libarchive.zip](https://github.com/zuzia-dev/Kodi-Omega-addons-for-Linux/raw/main/v21.0.0-Omega-2024-04-29-vfs.libarchive.zip)
+
 ### Other Features
 - Compiled with gcc version 12.2.0 (Debian 12.2.0-14) and enable Debug flag (Kodi should also be built as Debug).
 - Support library Bento4: https://www.bento4.com
