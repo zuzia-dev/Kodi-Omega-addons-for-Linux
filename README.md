@@ -1,7 +1,7 @@
 # Kodi Omega addons for Linux
 [![Generic badge](https://img.shields.io/badge/Platform-KODI-<COLOR>.svg)](https://kodi.tv/)
 ![Kodi version](https://img.shields.io/badge/Versions-21-orange)
-![GitHub latest commit](https://img.shields.io/github/last-commit/zuzia-dev/Kodi-Matrix-addons-for-Linux?color=00BFFF)
+![GitHub latest commit](https://img.shields.io/github/last-commit/zuzia-dev/Kodi-Omega-addons-for-Linux?color=00BFFF)
 [![Generic badge](https://img.shields.io/badge/Repository-Available-yellow.svg)](https://repozytorium-kodi.github.io/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
