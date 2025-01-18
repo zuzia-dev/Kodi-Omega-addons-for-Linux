@@ -8,7 +8,7 @@
 Addons for Kodi v21 Omega for Linux distributions based on Debian and Ubuntu. For development purpose only.
 
 ## Installation & Updates
-> ###### Add-ons are in the repository: [Repozytorium-Kodi](https://repozytorium-kodi.github.io/Repozytorium-Kodi.zip)
+> ###### Add-ons are in the repository: [Repozytorium-Kodi](https://github.com/Repozytorium-Kodi/Repozytorium-Kodi/releases/download/v1.0.4/Repozytorium-Kodi-1.0.4.zip)
 > ###### Installation via Kodi's file-manager, add source: https://repozytorium-kodi.github.io
 
 ### InputStream FFmpeg Direct
